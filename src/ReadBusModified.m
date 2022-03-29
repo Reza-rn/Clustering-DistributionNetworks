@@ -19,7 +19,7 @@ DSSSolution = DSSCircuit.Solution;
 % * DSSText Object
 % ****************************************************
 % Load in a circuit
-DSSText.Command = 'Compile "C:\Users\re208655\Desktop\NREL_C8\Restoration\Version4_C2\TestNetwork\Master_ALL.dss"';
+DSSText.Command = 'Compile "C:\Users\localAdress\Master_ALL.dss"';
 
 % Find All Buses
 AllBuses = DSSCircuit.AllBusNames;
